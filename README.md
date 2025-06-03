@@ -1,6 +1,6 @@
 # 👋 E aí! Seja bem-vindo ao meu cantinho no GitHub!
 
-Sou alguém que curte transformar ideias em código desde os 14 anos. Comecei brincando com JavaScript e, com o tempo, fui mergulhando de cabeça no ecossistema Java — hoje me divido entre ele e o Kotlin, sempre tentando deixar meus projetos mais limpos, rápidos e organizados.
+Sou alguém que curte transformar ideias em código desde os 10 anos. Comecei brincando com JavaScript e, com o tempo, fui mergulhando de cabeça no ecossistema Java — hoje me divido entre ele e o Kotlin, sempre tentando deixar meus projetos mais limpos, rápidos e organizados.
 
 # 🧭 No que costumo mexer?
 Essas são algumas das tecnologias com as quais tenho mais afinidade ou experiência prática:
